@@ -1,0 +1,3 @@
+clone garnu parxa
+
+git clone "link"n
